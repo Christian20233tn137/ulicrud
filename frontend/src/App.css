@@ -1,0 +1,12 @@
+/* Estilos mínimos — Bootstrap hace el trabajo pesado */
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
