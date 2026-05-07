@@ -60,7 +60,7 @@ El proyecto sigue una arquitectura desacoplada: el backend expone una API RESTfu
 
 ## Capturas de pantalla
 
-> Agregar capturas del sistema en funcionamiento.
+
 
 | Vista | Descripcion |
 |-------|-------------|
