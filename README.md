@@ -69,7 +69,7 @@ El proyecto sigue una arquitectura desacoplada: el backend expone una API RESTfu
 | ![Editar producto](docs/screenshots/editar.png) | Modal de edicion pre-cargado |
 | ![Eliminar producto](docs/screenshots/eliminar.png) | Confirmacion antes de eliminar |
 
-> **Nota:** Para agregar tus propias capturas, guarda las imagenes en `docs/screenshots/` con los nombres indicados arriba.
+
 
 ---
 
